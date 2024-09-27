@@ -1,3 +1,3 @@
 # Store-Sales-Prediction
 
-\section{Data Processing}
+Data Processing: EC2
