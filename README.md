@@ -1,6 +1,8 @@
 # Store-Sales-Prediction
 
 ## Problem Arises
+![flowers](https://github.com/user-attachments/assets/af64b648-68b4-4ea4-b9bb-20bc4d078a24)
+
 There's a store near my apartment that sells beautiful flowers, but I’ve noticed that they often face a challenge in managing their stock. Flowers, being perishable, only stay fresh for a few days before they start to wilt and become unsellable. This leads me to wonder: How can the store optimize its inventory so that they don’t end up with too many flowers that will go to waste or too few that they miss potential sales opportunities?
 
 My idea is to help the store by developing a predictive model that can forecast future sales based on historical sales trends and external factors like holidays or weather. Additionally, I want to build an optimization model to recommend the ideal number of items to keep in inventory each week, ensuring that they can sell all of them before they perish or expire, without understocking. How can we maximize the profit of the store?
